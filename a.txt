@@ -1,2 +1,6 @@
 just a text
+<<<<<<< .merge_file_a21312
 Line 2
+=======
+From git hub
+>>>>>>> .merge_file_a10840
